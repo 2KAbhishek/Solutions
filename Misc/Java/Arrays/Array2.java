@@ -1,5 +1,5 @@
 import java.util.Arrays;
-class Array2 {
+public class Array2 {
    public static void main(String[] args) {
 
     int[] numbers = Arrays.stream(args).mapToInt(Integer::parseInt).toArray();
