@@ -20,6 +20,11 @@ public class Prj1{
             }
         }
 
+        if (rowIndex == 0){
+            System.out.println("There is no employee with empid : " + empNo);
+            System.exit(1);
+        }
+
         int salary = Integer.parseInt(empDetails[rowIndex][5]) + Integer.parseInt(empDetails[rowIndex][6]) - Integer.parseInt(empDetails[rowIndex][7]);
         String designation = "";
         char desCode = empDetails[rowIndex][3].charAt(0);
