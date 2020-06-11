@@ -10,3 +10,13 @@
 ![Followers](https://img.shields.io/github/followers/2kabhishek?style=plastic&color=blue&label=Followers)
 
 Solutions written by me for coding competitions, tests etc.
+
+## Similar Repos
+
+Some code has been kept in seperate repos for better maintenance.
+
+- [FreeCodeCamp](https://github.com/2kabhishek/FreeCodeCamp)
+- [HackerRank](https://github.com/2kabhishek/HackerRank)
+- [LeetCode](https://github.com/2kabhishek/LeetCode)
+- [Wipro-PJP](https://github.com/2kabhishek/Wipro-PJP)
+
