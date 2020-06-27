@@ -1,5 +1,3 @@
-<div align="center">
-
 # Solutions
 
 ![Size](https://img.shields.io/github/repo-size/2kabhishek/Solutions?style=plastic&color=0f0&label=Size)
@@ -12,7 +10,6 @@
 
 Solutions written by me for coding competitions, tests etc.
 
-</div>
 
 ## Similar Repos
 
@@ -23,5 +20,4 @@ Some code has been kept in seperate repos for better maintenance.
 - [LeetCode](https://github.com/2kabhishek/LeetCode)
 - [Wipro-PJP](https://github.com/2kabhishek/Wipro-PJP)
 
-Please consider hitting the ⭐ star button if this repo was useful to you, any contributions and suggestions are welcome.
 
