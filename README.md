@@ -10,7 +10,6 @@
 
 Solutions written by me for coding competitions, tests etc.
 
-
 ## Similar Repos
 
 Some code has been kept in seperate repos for better maintenance.
@@ -19,5 +18,3 @@ Some code has been kept in seperate repos for better maintenance.
 - [HackerRank](https://github.com/2kabhishek/HackerRank)
 - [LeetCode](https://github.com/2kabhishek/LeetCode)
 - [Wipro-PJP](https://github.com/2kabhishek/Wipro-PJP)
-
-
