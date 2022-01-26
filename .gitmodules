@@ -4,3 +4,6 @@
 [submodule "LeetCode"]
 	path = LeetCode
 	url = git@github.com:2kabhishek/LeetCode
+[submodule "Exercism"]
+	path = Exercism
+	url = git@github.com:2kabhishek/Exercism
