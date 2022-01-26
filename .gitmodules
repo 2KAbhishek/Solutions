@@ -1,3 +1,6 @@
 [submodule "HackerRank"]
 	path = HackerRank
 	url = git@github.com:2kabhishek/HackerRank
+[submodule "LeetCode"]
+	path = LeetCode
+	url = git@github.com:2kabhishek/LeetCode
